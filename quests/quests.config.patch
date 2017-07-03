@@ -1,0 +1,5 @@
+[
+	{ "op" : "add"
+	,"path" : "/initialquests/wah-ki"
+	,"value" : [ "protectorate" ] }
+]

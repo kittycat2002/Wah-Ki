@@ -1,0 +1,11 @@
+{
+	"name" : "wah-ki",
+	"path" : ".",
+	"requires" : [],
+	"includes" : [],
+	"metadata" : {
+		"author" : "Hyko (AKA: HykoTheDriftless)",
+		"description" : "beta",
+		"version" : "0.0.1"
+	}
+}

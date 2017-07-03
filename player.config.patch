@@ -1,0 +1,9 @@
+[
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "wah-ki" },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/wah-ki"
+	,"value" : [ "protectorate1", "protectorate2", "wah-kiprologue", "wah-kilore" ]
+	}
+]
